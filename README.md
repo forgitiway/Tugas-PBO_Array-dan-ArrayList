@@ -18,3 +18,5 @@ Bank
     │   └── Account[]
     └── Customer 3
         └── Account[]
+
+![Output Program](image.png)
