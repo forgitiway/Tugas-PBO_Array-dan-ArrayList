@@ -8,7 +8,7 @@ Implementasi program Java menggunakan konsep OOP dengan class:
 3. Setiap `account` menyimpan informasi saldo dan memiliki method `deposit()`
   dan `withdraw()`.
 
-Struktur hubungan array:
+# Struktur hubungan array:
 
 Bank
 └── Customer[]
@@ -18,5 +18,7 @@ Bank
     │   └── Account[]
     └── Customer 3
         └── Account[]
+
+# Output Program :
 
 ![Output Program](image.png)
